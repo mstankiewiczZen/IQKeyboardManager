@@ -17,7 +17,7 @@ let package = Package(
         .target(
             name: "IQKeyboardManager",
             path: "IQKeyboardManager",
-            publicHeadersPath: "IQKeyboardManager"
+            publicHeadersPath: "public"
         )
     ]
 )
